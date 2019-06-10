@@ -1,0 +1,5 @@
+com\learning\flightbooking\repository\FlightDetailsRepository.class
+hello\HelloController.class
+com\learning\flightbooking\entity\FlightDetails.class
+com\learning\flightbooking\service\FlightBookingService.class
+com\learning\flightbooking\App.class
